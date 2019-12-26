@@ -2,5 +2,5 @@
 
 .PHONY: default test
 
-codegen:
+deploy:
 	gcloud functions deploy Handler --runtime=go111  --trigger-http
