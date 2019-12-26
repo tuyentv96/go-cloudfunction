@@ -24,6 +24,9 @@ func init() {
 
 func Handler(w http.ResponseWriter, r *http.Request) {
 	// Init article handler
+	e.GET("/", func(c echo.Context) error {
+		return c.JSON(200,"hello world")
+	})
 	handler.NewArticleHandler(e)
 
 	e.ServeHTTP(w, r)
