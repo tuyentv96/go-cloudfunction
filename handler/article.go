@@ -16,6 +16,10 @@ var articleStoreSeq int
 type ArticleHandler struct {
 }
 
+func init() {
+	articleStore=make(map[int]*models.Article)
+}
+
 // NewArticleHandler will initialize the articles/ resources endpoint
 func NewArticleHandler(e *echo.Echo) {
 	articleStore = make(map[int]*models.Article)
