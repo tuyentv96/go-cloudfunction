@@ -1,4 +1,4 @@
-module gitlab.com/tuyentv96/go-cloudfunction
+module github.com/tuyentv96/go-cloudfunction
 
 go 1.13
 

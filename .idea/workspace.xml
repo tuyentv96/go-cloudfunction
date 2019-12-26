@@ -32,7 +32,7 @@
     <configuration name="go build gitlab.com/tuyentv96/go-cloudfunction" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
       <module name="go-cloudfunction" />
       <working_directory value="$PROJECT_DIR$" />
-      <kind value="PACKAGE" />
+      <kind value="FILE" />
       <filePath value="$PROJECT_DIR$/main.go" />
       <package value="gitlab.com/tuyentv96/go-cloudfunction" />
       <directory value="$PROJECT_DIR$/" />
@@ -61,5 +61,31 @@
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="2080" y="-27" key="#go_build_gitlab.com/tuyentv96/go-cloudfunction" timestamp="1577348679084">
+      <screen x="1440" y="-206" width="1863" height="1057" />
+    </state>
+    <state x="2080" y="-27" key="#go_build_gitlab.com/tuyentv96/go-cloudfunction/0.23.1440.877/1440.-206.1863.1057@1440.-206.1863.1057" timestamp="1577348679084" />
+    <state width="1821" height="290" key="GridCell.Tab.0.bottom" timestamp="1577348521774">
+      <screen x="1440" y="-206" width="1863" height="1057" />
+    </state>
+    <state width="1821" height="290" key="GridCell.Tab.0.bottom/0.23.1440.877/1440.-206.1863.1057@1440.-206.1863.1057" timestamp="1577348521774" />
+    <state width="1821" height="290" key="GridCell.Tab.0.center" timestamp="1577348521773">
+      <screen x="1440" y="-206" width="1863" height="1057" />
+    </state>
+    <state width="1821" height="290" key="GridCell.Tab.0.center/0.23.1440.877/1440.-206.1863.1057@1440.-206.1863.1057" timestamp="1577348521773" />
+    <state width="1821" height="290" key="GridCell.Tab.0.left" timestamp="1577348521772">
+      <screen x="1440" y="-206" width="1863" height="1057" />
+    </state>
+    <state width="1821" height="290" key="GridCell.Tab.0.left/0.23.1440.877/1440.-206.1863.1057@1440.-206.1863.1057" timestamp="1577348521772" />
+    <state width="1821" height="290" key="GridCell.Tab.0.right" timestamp="1577348521773">
+      <screen x="1440" y="-206" width="1863" height="1057" />
+    </state>
+    <state width="1821" height="290" key="GridCell.Tab.0.right/0.23.1440.877/1440.-206.1863.1057@1440.-206.1863.1057" timestamp="1577348521773" />
+    <state x="2038" y="84" width="667" height="476" key="find.popup" timestamp="1577348670856">
+      <screen x="1440" y="-206" width="1863" height="1057" />
+    </state>
+    <state x="2038" y="84" width="667" height="476" key="find.popup/0.23.1440.877/1440.-206.1863.1057@1440.-206.1863.1057" timestamp="1577348670856" />
   </component>
 </project>

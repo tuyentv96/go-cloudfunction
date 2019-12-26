@@ -7,7 +7,7 @@ import (
 	"time"
 
 	"github.com/labstack/echo"
-	"gitlab.com/tuyentv96/go-cloudfunction/models"
+	"github.com/tuyentv96/go-cloudfunction/models"
 )
 
 var articleStore map[int]*models.Article

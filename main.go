@@ -7,7 +7,7 @@ import (
 	"github.com/gorilla/mux"
 	"github.com/labstack/echo"
 	"github.com/labstack/echo/middleware"
-	"gitlab.com/tuyentv96/go-cloudfunction/handler"
+	"github.com/tuyentv96/go-cloudfunction/handler"
 )
 
 func Handler(w http.ResponseWriter, r *http.Request) {
